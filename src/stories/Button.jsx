@@ -8,7 +8,7 @@ import './button.css';
 export const Button = ({
   primary = false,
   backgroundColor = null,
-  size = 'large',
+  size = 'small',
   label,
   ...props
 }) => {
